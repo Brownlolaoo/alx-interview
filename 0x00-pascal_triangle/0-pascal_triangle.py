@@ -36,4 +36,3 @@ def pascal_triangle(n):
         previous = rowlist
         triangle.append(rowlist)
     return triangle
-    

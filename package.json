@@ -1,0 +1,23 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Brownlolaoo/alx-interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brownlolaoo/alx-interview/issues"
+  },
+  "homepage": "https://github.com/Brownlolaoo/alx-interview#readme",
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}
